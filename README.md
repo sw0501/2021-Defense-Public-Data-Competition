@@ -11,9 +11,8 @@
 ## 주제 : Me(taverse) Me(Morial) [메타버스 현충원]
 
 ## 기술 스택
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Qgis-#589632?style=for-the-badge&logo=Qgis&logoColor=white"> 
-<img src="https://img.shields.io/badge/Unity-#FFFFFF?style=for-the-badge&logo=Unity&logoColor=white"> 
 ## Prototype
 <img src="./국방%20데이터%20경진대회/prototype/MetaverseMap/GIS%20낙동강.JPG" width="600" height="400">
 <img src="./국방%20데이터%20경진대회/prototype/MetaverseMap/Memorial_Space.JPG" width="600" height="400">
